@@ -27,5 +27,3 @@ def caesar_cipher(string, shift)
 end
 	shift_array.join("")
 end
-
-p caesar_cipher("hey", 5)
